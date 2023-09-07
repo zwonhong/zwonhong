@@ -1,5 +1,6 @@
 ### Jiwon Hong
-으아
+A student of the Department of Software, attending Gachon Univ in 2023 as a first-year student.
+Created this account on September 1, 2023.
 
 <!--
 **zwonhong/zwonhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
